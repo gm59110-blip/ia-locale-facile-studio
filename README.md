@@ -99,7 +99,7 @@ Les fois suivantes, `Demarrer.cmd` ouvre l'application en quelques secondes, **m
 | **Images** | FLUX.2 Klein 4B, Stable Diffusion 1.5, SDXL | tous les modèles du catalogue (Z-Image Turbo, FLUX.1 schnell, FLUX.2 Klein Base…) |
 | **Vidéos** | Wan 2.2 (5B) | les autres modèles vidéo du catalogue |
 | **Modèles** | catalogue gratuit | recherche sur Hugging Face et Civitai, installation manuelle, import, dossiers de modèles existants |
-| **Fonctions** | création, retouche, traduction du prompt, chat, bibliothèque | LoRA, séries d'images, atelier LoRA, assistant de code et applis Android, accès depuis le téléphone, calcul sur un serveur distant, options administrateur |
+| **Fonctions** | création, retouche, traduction du prompt, chat, bibliothèque | LoRA, séries d'images, atelier LoRA, assistant de code et applis Android, accès depuis le téléphone, options administrateur |
 
 **L'édition gratuite est la version d'essai** : même moteur, même installation, même interface. Si elle fonctionne sur
 ton PC, l'édition Premium y fonctionnera aussi. L'édition Premium s'achètera directement dans l'application
