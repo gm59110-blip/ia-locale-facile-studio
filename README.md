@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>⬇️ Télécharger la dernière version (gratuite)</b></a> ·
+  <a href="https://github.com/gm59110-blip/ia-locale-facile-studio/releases/latest/download/IA-Locale-Facile-Studio.zip"><b>⬇️ Télécharger la dernière version (gratuite)</b></a> ·
   <a href="https://www.ia-locale-facile.fr">www.ia-locale-facile.fr</a>
 </p>
 
@@ -61,8 +61,8 @@
 
 ## Installation
 
-1. Télécharge le fichier `IA-Locale-Facile-Studio-x.y.z.zip` dans la page
-   [**Releases**](../../releases/latest).
+1. Télécharge [**`IA-Locale-Facile-Studio.zip`**](https://github.com/gm59110-blip/ia-locale-facile-studio/releases/latest/download/IA-Locale-Facile-Studio.zip) (toujours la dernière version ;
+   le détail de chaque version est dans la page [**Releases**](../../releases/latest) et dans le [journal des modifications](CHANGELOG.md)).
 2. Décompresse-le où tu veux (par exemple dans `Documents`). Évite `Program Files`.
 3. Ouvre le dossier et double-clique sur **`Demarrer.cmd`**.
    Windows peut afficher un avertissement pour un fichier venu d'Internet : clique sur « Informations complémentaires »
@@ -85,7 +85,7 @@ Les fois suivantes, `Demarrer.cmd` ouvre l'application en quelques secondes, **m
 - Les créations sont **marquées comme générées par IA** (métadonnées et filigrane invisible), comme l'exige le règlement
   européen sur l'IA.
 - Vérifie l'intégrité du zip avec le fichier `.sha256.txt` publié à côté :
-  `certutil -hashfile IA-Locale-Facile-Studio-x.y.z.zip SHA256`.
+  `certutil -hashfile IA-Locale-Facile-Studio.zip SHA256`.
 
 </details>
 
@@ -140,7 +140,7 @@ L'application est fournie en l'état, sans assistance. Des tutoriels et des test
 
 *English: IA Locale Facile Studio is a fully local AI creation studio for Windows (images, video, chat, audio). No
 subscription, no cloud: everything runs on your own NVIDIA GPU. The interface is available in English, German and
-Spanish (Settings > Language). Download the free edition from the [Releases](../../releases/latest) page.*
+Spanish (Settings > Language). Download the free edition: [IA-Locale-Facile-Studio.zip](https://github.com/gm59110-blip/ia-locale-facile-studio/releases/latest/download/IA-Locale-Facile-Studio.zip).*
 
 <sub>IA Locale Facile Studio est un logiciel propriétaire, gratuit dans son édition gratuite. Le code n'est pas libre :
 voir la [licence d'utilisation](docs/LICENCE-UTILISATEUR.md). Les noms de modèles et de logiciels cités appartiennent à
