@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/gm59110-blip/ia-locale-facile-studio/releases/latest/download/IA-Locale-Facile-Studio.zip"><b>⬇️ Télécharger la dernière version (gratuite)</b></a> ·
-  <a href="https://www.ia-locale-facile.fr">www.ia-locale-facile.fr</a>
+  <a href="https://www.ia-locale-facile.fr/ia-locale-facile-studio?utm_source=github&utm_medium=readme&utm_campaign=readme-studio">Présentation et captures sur www.ia-locale-facile.fr</a>
 </p>
 
 ![L'écran Créer : l'image apparaît en grand au-dessus du prompt](images/creer.jpg)
@@ -127,6 +127,12 @@ Ferme l'application et supprime son dossier. Rien n'est installé ailleurs sur l
 **Y a-t-il une assistance ?**
 L'application est fournie en l'état, sans assistance. Des tutoriels et des tests de matériel sont publiés sur
 [www.ia-locale-facile.fr](https://www.ia-locale-facile.fr).
+
+## Pour aller plus loin
+
+- [Le guide complet de l'application](https://www.ia-locale-facile.fr/post/ia-locale-facile-studio-appli-ia-locale?utm_source=github&utm_medium=readme&utm_campaign=readme-guide) : toutes les fonctions, écran par écran.
+- [Pinokio, Stability Matrix ou IA Locale Facile Studio : lequel choisir ?](https://www.ia-locale-facile.fr/post/pinokio-stability-matrix-ou-studio-comparatif?utm_source=github&utm_medium=readme&utm_campaign=readme-comparatif) : un comparatif honnête, avec les limites de chacun.
+- [Quelle RTX pour l'IA locale ?](https://www.ia-locale-facile.fr/post/comparatif-rtx-pour-la-génération-d-image-et-de-vidéo-ia-locale?utm_source=github&utm_medium=readme&utm_campaign=readme-rtx) : quelle carte graphique choisir.
 
 ## Documents
 
